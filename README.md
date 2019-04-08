@@ -1,0 +1,1 @@
+# addon-resizer-amd64
